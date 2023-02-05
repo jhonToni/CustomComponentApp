@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomComponentApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomComponentApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
